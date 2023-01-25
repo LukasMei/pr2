@@ -5,7 +5,7 @@ import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 import serde.ObjectSerde;
 
-class CertificateSerdeTest {
+ public class CertificateSerdeTest {
 
   @Test
   public void test1() {
